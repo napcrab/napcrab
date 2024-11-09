@@ -9,6 +9,7 @@ Proprietary software is malware 😝
 ---
 
 Are you a communist? Then get organised! [TODAY](https://marxist.com/join-us.htm)
+
 Er du kommunist? Så organisere dig! [I DAG](https://revosoc.dk/rkp/)
 
 
