@@ -1,16 +1,16 @@
-Amateur hobbyist with an interest for Rust, functional programming and OS development :3
+Amateur hobbyist with an interest for Rust, functional programming and OS development 🦀🦀🦀
 
 What i am currently working on: [Kompar](https://github.com/napcrab/kompar) (Yet another functional programming language - This time with a focus on program configuration and data manipulation)
 
-Projects I find interesting: [Nix](https://github.com/nixos), [Lix](https://github.com/lix-project), [RedoxOS](https://github.com/redox-os), [bevy](https://github.com/bevyengine), [egui](https://github.com/emilk/egui) 
+Projects I find interesting: [Nix](https://github.com/nixos), [Lix](https://github.com/lix-project), [RedoxOS](https://github.com/redox-os), [bevy](https://github.com/bevyengine), [egui](https://github.com/emilk/egui) 🌟
 
 Proprietary software is malware 😝
 
 ---
 
-Are you a communist? Then get organised! [TODAY](https://marxist.com/join-us.htm)
+☭☭☭ Are you a communist? Then get organised! [TODAY](https://marxist.com/join-us.htm) ☭☭☭
 
-Er du kommunist? Så organisere dig! [I DAG](https://revosoc.dk/rkp/)
+☭☭☭ Er du kommunist? Så organisere dig! [I DAG](https://revosoc.dk/rkp/) ☭☭☭
 
 
 <!---
