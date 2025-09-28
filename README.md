@@ -1,6 +1,4 @@
-Amateur hobbyist with an interest for Rust, functional programming and OS development 🦀🦀🦀
-
-Projects I find interesting: [Nix](https://github.com/nixos), [Lix](https://github.com/lix-project), [RedoxOS](https://github.com/redox-os), [bevy](https://github.com/bevyengine), [egui](https://github.com/emilk/egui) 🌟
+Amateur hobbyist with an interest for Rust, functional programming and OS development
 
 Proprietary software is malware 😝
 
