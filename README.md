@@ -1,4 +1,4 @@
-Amateur hobbyist with an interest for Rust, functional programming and OS development
+Dumbass that likes Rust lowky (like, the language)
 
 Proprietary software is malware 😝
 
